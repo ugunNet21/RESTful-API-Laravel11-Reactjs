@@ -17,7 +17,15 @@
 
 ![image](https://github.com/ugunNet21/RESTful-API-Laravel11-Reactjs/assets/45864165/5c07d5d8-9f45-435d-b21d-ad33de4174cd)
 
-
+## Install
+```bash
+* Instal API Laravel
+* Install API routes phph artisan install:api
+* Install vite react : npm create vite@4.2.0 frontend -- --template react
+* cd frontend
+* npm install
+* npm run dev
+```
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
